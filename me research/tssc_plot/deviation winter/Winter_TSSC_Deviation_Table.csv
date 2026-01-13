@@ -1,0 +1,10 @@
+Season,Shape,Spacing_cm,Connection,Model_Energy_kWh,Reference_Energy_kWh,Deviation_%
+Winter,Flat,62,TSSC,32.13,10000.0,-99.68
+Winter,Flat,77,TSSC,32.54,10000.0,-99.67
+Winter,Flat,93,TSSC,32.83,10000.0,-99.67
+Winter,Inverted-V,62,TSSC,36.47,10000.0,-99.64
+Winter,Inverted-V,77,TSSC,36.92,10000.0,-99.63
+Winter,Inverted-V,93,TSSC,37.25,10000.0,-99.63
+Winter,V-Shape,62,TSSC,33.78,10000.0,-99.66
+Winter,V-Shape,77,TSSC,34.2,10000.0,-99.66
+Winter,V-Shape,93,TSSC,34.51,10000.0,-99.65
